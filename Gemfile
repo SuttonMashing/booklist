@@ -5,3 +5,9 @@ gem 'sinatra'
 gem 'mongoid'
 # Required to use some advanced features of# Sinatra, like namespaces
 gem 'sinatra-contrib'
+
+gem 'thin'
+gem 'puma'
+gem 'reel'
+gem 'http'
+gem 'webrick'
